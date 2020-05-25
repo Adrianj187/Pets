@@ -1,0 +1,5 @@
+dog,4
+cat,2
+bubba,9 
+carrot,1
+pine,6 
