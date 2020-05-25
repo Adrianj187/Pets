@@ -63,7 +63,7 @@ public class PetsDB {
         String line;
 
         do {
-            System.out.println("add pet(name, age: )");
+            System.out.println("add pet(name, age:  )");
             line = sc.nextLine().trim();
             if(line.equalsIgnoreCase("done"))
                 break;
